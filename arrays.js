@@ -15,6 +15,5 @@ array.push(element)
 return array
 }
 function accessElementInArray (array, index){
-array[index] = 3
-console.log(array[2])
+console.log(array[index])
 }
