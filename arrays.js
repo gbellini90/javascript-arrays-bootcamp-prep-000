@@ -19,6 +19,7 @@ return array[index]
 }
 function removeElementFromBeginningOfArray(array){
   array.shift()
+  array
 }
 function destructivelyRemoveElementFromBeginningOfArray(array){
   array.shift()
